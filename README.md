@@ -3,7 +3,6 @@
 This project is part of a job simulation on forage (https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)
 
 
-https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb
 
 Below are the things I learned and did on this project. At the end, I included a link to the 8-minute presentation I recorded for the project end report. 
 
