@@ -1,4 +1,3 @@
-# Accenture_virtual_internship
 
 Below are the things I learned and did on this project. At the end, I included a link to the 8-minute presentation I recorded for the project end report. 
 
