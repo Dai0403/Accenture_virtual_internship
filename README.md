@@ -1,6 +1,6 @@
 ## Social Media Analysis: Data Analytics and Visualization 
 
-This project is part of a job simulation on forage (https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)
+This project is part of a job simulation on Accenture Virtual Internship on forage (https://www.theforage.com/simulations/accenture-nam/data-analytics-mmlb)
 
 
 
